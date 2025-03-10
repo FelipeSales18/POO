@@ -25,6 +25,6 @@ public class ex1 {
             System.out.println("não pode dividir por 0 :(");
         }
 
-        teclado.close(); // fechar o scanner (boas práticas)
+        teclado.close(); 
     }
 }
